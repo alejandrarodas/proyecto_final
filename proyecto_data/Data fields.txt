@@ -5,6 +5,7 @@ SalePrice - the property's sale price in dollars. This is the target variable th
 
 
 OverallQual: Overall material and finish quality, rates the overall material and finish of the house
+0.7939900504626405
 
        10	Very Excellent
        9	Excellent
@@ -19,6 +20,15 @@ OverallQual: Overall material and finish quality, rates the overall material and
        
        
 1stFlrSF: First Floor square feet
+0.6162887000998717
+
 TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
+0.5647069399593065
+
 YearBuilt: Original construction date
+0.5341706927117515
+
 LotFrontage: Linear feet of street connected to property
+nan
+
+
